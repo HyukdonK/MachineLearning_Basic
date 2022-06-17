@@ -1,2 +1,2 @@
-# programming-pr
+# AI_class
 ai study room
